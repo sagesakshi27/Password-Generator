@@ -37,12 +37,12 @@ and a random character is picked for each position in the password.
 
 ## 🛠️ Tech Stack
 
-  Component   Technology
-  ----------- -------------------------
-  Structure   HTML5
-  Styling     CSS3 (Neon Theme)
-  Logic       JavaScript (Vanilla JS)
-  Security    Crypto API
+  | **Component** |  **Technology** |
+  | ----------    | -------------------- |
+  | **Structure** |    **HTML5** |
+  | **Styling**   |    **CSS3 (Neon Theme)** |
+  | **Logic**     |    **JavaScript (Vanilla JS)** |
+  | **Security**  |    **Crypto API** |
 
 ------------------------------------------------------------------------
 
