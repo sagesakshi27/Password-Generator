@@ -4,7 +4,7 @@ A sleek, modern **Password Generator** built using **HTML**, **CSS**,
 and **JavaScript**  designed to create strong, secure, and
 customizable passwords automatically every 10 seconds.
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ customizable passwords automatically every 10 seconds.
 -   🌙 **Modern Neon Design**
     -   A dark, glowing UI for a hacker-style look 👾
 
-------------------------------------------------------------------------
+---
 
 ## 🧠 How It Works
 
@@ -33,7 +33,7 @@ unpredictable**.
 The selected character sets (based on checkbox options) are combined,
 and a random character is picked for each position in the password.
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ and a random character is picked for each position in the password.
   | **Logic**     |    **JavaScript (Vanilla JS)** |
   | **Security**  |    **Crypto API** |
 
-------------------------------------------------------------------------
+---
 
 ## 🧩 File Structure
 
@@ -56,7 +56,7 @@ and a random character is picked for each position in the password.
     ├── LICENSE
     └── README.md       # Project documentation file
 
-------------------------------------------------------------------------
+---
 
 ## ⚙️ Usage
 
@@ -72,13 +72,13 @@ and a random character is picked for each position in the password.
 4.  Click **Copy** to save the password.
 5.  Sit back ---> it auto-generates every 10 seconds ⏱️
 
-------------------------------------------------------------------------
+---
 
 ## 🔒 Example Output
 
     Wb@3kL!x2$Pq
 
-------------------------------------------------------------------------
+---
 
 ## 💡 Future Enhancements
 
@@ -86,17 +86,20 @@ and a random character is picked for each position in the password.
 -   Option to **exclude similar characters** (e.g., `O` vs `0`)
 -   Add **dark/light theme toggle**
 
-------------------------------------------------------------------------
+---
 
 ## 🧑‍💻 Author
 
-**👤 [sagesakshi27](https://github.com/sagesakshi27)**
-💬 "Creating secure tools, one project at a time."
+> **Developer:**  **Sakshi Chavan**
 
-------------------------------------------------------------------------
+> **Github:** **[sagesakshi27](https://github.com/sagesakshi27)**
+
+---
 
 ## 📜 License
 
 This project is licensed under the **MIT License** 
 free to use,
 modify, and share.
+
+---
